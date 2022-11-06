@@ -4,19 +4,20 @@
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-# Respect MrKAUSAR
+# Silent boy FXX
 
-# Installation
+👽👽 Installation steps 👽👽
 
-- `pkg update`
 
-- `pkg upgrade`
+- `pkg update`😴
 
-- `pkg install git`
+- `pkg upgrade`😴
 
-- `pkg install python`
+- `pkg install git`😪
 
-- `pkg  install python2`
+- `pkg install python`🙃
+
+- `pkg  install python2`🐸
 
 - `pip2 install requests`
 
@@ -30,7 +31,7 @@
 
 - `rm -rf PRO`
 
-- `git clone https://github.com/MrK4US4R/PRO`
+- `https://github.com/forkanbin14/PRO`😈🔥
 
 # Run Script
 
